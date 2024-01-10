@@ -187,8 +187,10 @@ Ctrl + / (Cmd + / on Mac) | Toggle Command Palette
 Ctrl + E (Cmd + E on Mac) | Open Graph View
 Ctrl + Click (Cmd + Click on Mac) | Open Link in New Pane
 
-
-
+### Plugin Shortcuts
+Shortcut Key		|		Functions
+:-----------------:|-----------------:
+Ctrl+Shift+I | Insert Font-Awesome Icon
 
 > You've reached the end now. Hope this helps! :)
 
